@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Tantri_Ratna_Dewi](LinkedIn_ http://linkedin.com/in/tantri-ratna-dewi-67835a1a6)
